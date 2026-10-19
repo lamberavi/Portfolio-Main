@@ -99,7 +99,7 @@ portfolio/
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/ShivangiSingh13/portfolio.git
+https://github.com/lamberavi/Portfolio-Main
 cd portfolio
 npm install
 ```
