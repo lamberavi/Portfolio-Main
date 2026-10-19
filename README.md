@@ -1,4 +1,4 @@
-# 🌐 Shivangi Singh Portfolio
+# 🌐 Ravi Lambe Portfolio
 
 A modern, responsive developer portfolio built using **Next.js, React, and TypeScript** to showcase projects, skills, certifications, and achievements in a clean, recruiter-friendly format.
 
